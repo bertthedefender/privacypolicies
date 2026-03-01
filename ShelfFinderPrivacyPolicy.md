@@ -2,11 +2,11 @@
 Last Updated: March 1, 2026
 
 ## 1. Introduction
-We value your privacy. This Privacy Policy explains how the Shelf Finer app collects, uses, and shares information when you use our mobile application (the "App"). 
+We value your privacy. This Privacy Policy explains how the Shelf Finder app collects, uses, and shares information when you use our mobile application (the "App"). 
 The App is a tool designed to help users find items using their device camera, by searching for text entered by the user.
 
 ## 2. Information We Collect
-__User-Input Data:__ The App allows you to create lists of items to search for. This data is stored locally on your device only. We do not transmit, store, or have access to your lists on our servers.
+__User-Input Data:__ The App allows you to create lists of items to search for. This data is stored locally on your device only. We do not transmit, store, or have access to your lists on our servers.  The camera is used to provide a preview image to the app, on which to find text.  No images are stored or transmitted from your device by the Shelf Finder app.
 
 __Automatically Collected Data:__ We use third-party services that may collect information used to identify you. This includes:
 
